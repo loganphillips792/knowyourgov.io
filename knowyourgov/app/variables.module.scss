@@ -1,0 +1,27 @@
+$primary-color: #64ff00;
+
+:export {
+    primaryColor: $primary-color;
+}
+
+.mapContainer {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    // border: 2px solid red;
+}
+
+.unitedStatesMap {
+    // width: 100%;
+    border: 2px solid red;
+    fill: grey;
+    color: white;
+    // position: absolute;
+    // left: 50%;
+    // top: 50%;
+    // transform: translate(-50%, -50%);
+}
+
+.unitedStatesMap path:hover {
+    fill: red;
+}
