@@ -4,8 +4,6 @@ Getdata from here: https://geodata.bts.gov/datasets/8ef43e55f7524f02a0ecb3dd415c
 
 Import here and export as SVG: https://mapshaper.org/
 
-Use Inkscape to edit the SVG
-
 Optimize the SVG here: https://svgomg.net/
 
 Convert to a component: https://react-svgr.com/playground/
